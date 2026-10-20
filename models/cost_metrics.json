@@ -1,0 +1,33 @@
+{
+  "winning_model": "XGBoost Regressor",
+  "models": {
+    "Linear Regression (Baseline)": {
+      "algorithm": "Linear Regression (Baseline)",
+      "mae": 4181.19,
+      "rmse": 5796.28,
+      "r2_score": 0.7836
+    },
+    "Random Forest Regressor": {
+      "algorithm": "Random Forest Regressor",
+      "mae": 2536.56,
+      "rmse": 4461.29,
+      "r2_score": 0.8718
+    },
+    "XGBoost Regressor": {
+      "algorithm": "XGBoost Regressor",
+      "mae": 2436.65,
+      "rmse": 4248.52,
+      "r2_score": 0.8837
+    }
+  },
+  "sample_count": 1338,
+  "test_size": 268,
+  "feature_columns": [
+    "age",
+    "bmi",
+    "children",
+    "sex",
+    "smoker",
+    "region"
+  ]
+}

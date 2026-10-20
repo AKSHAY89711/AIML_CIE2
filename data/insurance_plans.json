@@ -1,0 +1,298 @@
+[
+  {
+    "plan_id": "CARE-SUPREME-01",
+    "plan_name": "Care Supreme Comprehensive Care",
+    "insurer_name": "Care Health Insurance",
+    "plan_type": "Comprehensive",
+    "annual_premium": 14200.0,
+    "sum_insured": 1000000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 24,
+    "room_rent_limit": "No Capping / Single Private Room",
+    "network_hospital_count": 11400,
+    "maternity_coverage": true,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 65,
+    "risk_compatibility": "All",
+    "claim_settlement_ratio": 98.7,
+    "key_features": [
+      "Unlimited automatic restoration of sum insured",
+      "Up to 500% cumulative bonus for claim-free years",
+      "No sub-limits on ICU charges or treatments",
+      "Free annual preventive health checkup for all adults"
+    ],
+    "exclusions": [
+      "Pre-existing diseases during the initial 24-month waiting period",
+      "Non-allopathic experimental treatments",
+      "Cosmetic and aesthetic plastic surgeries unless trauma-induced"
+    ],
+    "important_limitations": [
+      "Standard 30-day initial waiting period applies except accidental injury",
+      "OPD consultations are not reimbursable under this tier"
+    ]
+  },
+  {
+    "plan_id": "STAR-COMPREHENSIVE-02",
+    "plan_name": "Star Comprehensive Health Classic",
+    "insurer_name": "Star Health & Allied Insurance",
+    "plan_type": "Comprehensive",
+    "annual_premium": 18500.0,
+    "sum_insured": 1500000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 24,
+    "room_rent_limit": "Single Private A/C Room",
+    "network_hospital_count": 14000,
+    "maternity_coverage": true,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": true,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 65,
+    "risk_compatibility": "All",
+    "claim_settlement_ratio": 99.1,
+    "key_features": [
+      "Includes outpatient (OPD) dental & ophthalmic consultations up to \u20b95,000",
+      "Maternity cover with newborn coverage from day 1",
+      "Bariatric surgery coverage after 36 months",
+      "Air ambulance coverage up to \u20b95,00,000"
+    ],
+    "exclusions": [
+      "Self-inflicted injuries and hazardous adventure sports",
+      "Genetic disorders and stem cell therapy",
+      "Routine health examinations during initial 12 months"
+    ],
+    "important_limitations": [
+      "Maternity benefits require a 24-month waiting period",
+      "OPD benefits subject to yearly caps"
+    ]
+  },
+  {
+    "plan_id": "HDFC-OPTI-SECURE-03",
+    "plan_name": "Optima Secure Smart Shield",
+    "insurer_name": "HDFC ERGO General Insurance",
+    "plan_type": "Comprehensive",
+    "annual_premium": 22400.0,
+    "sum_insured": 2000000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 36,
+    "room_rent_limit": "No Sub-limit / Any Room",
+    "network_hospital_count": 12800,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 70,
+    "risk_compatibility": "All",
+    "claim_settlement_ratio": 97.9,
+    "key_features": [
+      "2X base coverage instantly on Day 1 without extra charges",
+      "Protect Plus rider covers non-medical consumables (gloves, syringes, sanitizers)",
+      "Restore benefit with unlimited triggers for different illnesses",
+      "Zero claim deductions on room rent upgrades"
+    ],
+    "exclusions": [
+      "Intentional self-injury and substance abuse rehabilitation",
+      "Congenital external anomalies",
+      "Unproven clinical trials"
+    ],
+    "important_limitations": [
+      "36-month waiting period for pre-existing hypertension or cardiac history",
+      "Higher entry premium for individuals over 45"
+    ]
+  },
+  {
+    "plan_id": "NIVA-REASSURE-04",
+    "plan_name": "Niva Bupa ReAssure 2.0 Titanium",
+    "insurer_name": "Niva Bupa Health Insurance",
+    "plan_type": "Comprehensive",
+    "annual_premium": 16800.0,
+    "sum_insured": 1000000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 24,
+    "room_rent_limit": "Single Private Room",
+    "network_hospital_count": 10500,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 65,
+    "risk_compatibility": "Low-Medium",
+    "claim_settlement_ratio": 98.4,
+    "key_features": [
+      "Lock the Clock: Premium remains constant as long as no claims are made",
+      "ReAssure 'Forever' automatic reinstatement of full sum insured",
+      "Booster+ benefit carries forward unutilized sum insured up to 10X",
+      "Smart health discounts for walking >10,000 steps daily"
+    ],
+    "exclusions": [
+      "Obesity treatment and weight reduction surgeries",
+      "Cosmetic and sex-reassignment surgery",
+      "Hazardous occupational exposure"
+    ],
+    "important_limitations": [
+      "Strict wellness tracking required to lock premium discount tiers",
+      "No maternity coverage included"
+    ]
+  },
+  {
+    "plan_id": "CARE-SENIOR-PRIME-05",
+    "plan_name": "Senior First Golden Protection",
+    "insurer_name": "Care Health Insurance",
+    "plan_type": "Senior Citizen",
+    "annual_premium": 31200.0,
+    "sum_insured": 1000000.0,
+    "deductible": 0.0,
+    "co_pay": 20.0,
+    "waiting_period": 12,
+    "room_rent_limit": "Twin Sharing Room",
+    "network_hospital_count": 9200,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": true,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 55,
+    "maximum_age": 85,
+    "risk_compatibility": "High-Compatible",
+    "claim_settlement_ratio": 96.8,
+    "key_features": [
+      "Designed specifically for senior citizens and pre-existing chronic conditions",
+      "Reduced 12-month waiting period for hypertension and diabetes mellitus",
+      "Annual comprehensive health check-up including cardiac lipid profiles",
+      "Domiciliary hospitalization and home healthcare assistance included"
+    ],
+    "exclusions": [
+      "Joint replacement surgery within the first 24 months unless accidental",
+      "Non-medical attendant charges",
+      "Unapproved herbal regimens"
+    ],
+    "important_limitations": [
+      "Mandatory 20% co-payment on all hospital claims",
+      "Room rent capped at twin-sharing rate"
+    ]
+  },
+  {
+    "plan_id": "ICICI-ELEVATE-06",
+    "plan_name": "ICICI Lombard Health AdvantEdge",
+    "insurer_name": "ICICI Lombard General Insurance",
+    "plan_type": "Comprehensive",
+    "annual_premium": 15600.0,
+    "sum_insured": 1000000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 24,
+    "room_rent_limit": "Single Private Room",
+    "network_hospital_count": 9800,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 65,
+    "risk_compatibility": "All",
+    "claim_settlement_ratio": 98.1,
+    "key_features": [
+      "Reset benefit restores 100% of sum insured upon exhaustion",
+      "Worldwide emergency medical coverage up to \u20b95,00,000",
+      "Pre-hospitalization 60 days, post-hospitalization 180 days coverage",
+      "Donor expenses covered up to full sum insured for organ transplants"
+    ],
+    "exclusions": [
+      "Dental treatment unless requiring hospitalization from accident",
+      "Hearing aids, spectacles, contact lenses",
+      "Psychiatric inpatient treatment within first 24 months"
+    ],
+    "important_limitations": [
+      "International coverage is limited to emergency inpatient admissions only",
+      "30-day initial waiting period applies"
+    ]
+  },
+  {
+    "plan_id": "BAJAJ-CRITI-CARE-07",
+    "plan_name": "Bajaj Allianz Critical Illness Guard",
+    "insurer_name": "Bajaj Allianz General Insurance",
+    "plan_type": "Critical Illness",
+    "annual_premium": 9800.0,
+    "sum_insured": 2500000.0,
+    "deductible": 0.0,
+    "co_pay": 0.0,
+    "waiting_period": 90,
+    "room_rent_limit": "Lump Sum Payout (No sub-limits)",
+    "network_hospital_count": 8700,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": false,
+    "ayush_coverage": false,
+    "minimum_age": 18,
+    "maximum_age": 65,
+    "risk_compatibility": "High-Compatible",
+    "claim_settlement_ratio": 97.4,
+    "key_features": [
+      "100% lump-sum compensation upon first diagnosis of 37 critical illnesses",
+      "Payout can be used for living expenses, overseas treatment, or debt repayment",
+      "Second medical opinion service from global oncology panels",
+      "Income tax benefit under section 80D"
+    ],
+    "exclusions": [
+      "Illnesses diagnosed within the first 90 days from inception",
+      "Diseases related to HIV/AIDS",
+      "Congenital internal conditions diagnosed before age 18"
+    ],
+    "important_limitations": [
+      "Requires a 30-day survival period post-diagnosis before claim disbursement",
+      "Does NOT cover standard day-to-day hospitalization or surgeries"
+    ]
+  },
+  {
+    "plan_id": "MANIPAL-SUPER-TOPUP-08",
+    "plan_name": "ManipalCigna Super Top-Up Plus",
+    "insurer_name": "ManipalCigna Health Insurance",
+    "plan_type": "Super Top-Up",
+    "annual_premium": 5400.0,
+    "sum_insured": 2500000.0,
+    "deductible": 500000.0,
+    "co_pay": 0.0,
+    "waiting_period": 24,
+    "room_rent_limit": "No Sub-limit / Any Room",
+    "network_hospital_count": 8900,
+    "maternity_coverage": false,
+    "critical_illness_coverage": true,
+    "outpatient_coverage": false,
+    "day_care_procedures": true,
+    "ayush_coverage": true,
+    "minimum_age": 18,
+    "maximum_age": 75,
+    "risk_compatibility": "All",
+    "claim_settlement_ratio": 96.5,
+    "key_features": [
+      "High coverage (\u20b925L) at extremely economical premium (\u20b95.4K/yr)",
+      "Aggregates multiple claims during a policy year toward deductible threshold",
+      "Guaranteed lifetime renewability with no age ceiling",
+      "Ideal companion for corporate group insurance or basic policies"
+    ],
+    "exclusions": [
+      "Expenses falling below the chosen \u20b95,00,000 threshold/deductible",
+      "Experimental stem-cell treatments",
+      "Non-prescribed supplements and vitamins"
+    ],
+    "important_limitations": [
+      "Policy only activates AFTER claims exceed \u20b95,00,000 in a single policy year",
+      "Not suitable as a standalone primary policy without base coverage"
+    ]
+  }
+]
